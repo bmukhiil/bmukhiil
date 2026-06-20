@@ -1,13 +1,12 @@
-`bmukhiil / README.md`
+`bmukhiil.notes`
 
-## Hello there
+## Hey, I'm Mukhiil
 
-**Software Engineer at [Aires](https://www.aires.com) by day, building small product experiments by night.**
+Software engineer at [Aires](https://www.aires.com), mostly working across product surfaces, automation, and AI-assisted workflows.
 
-I like clean interfaces, AI-assisted workflows, travel tools, design systems, and turning fuzzy ideas into real things on screen.
+I like the early messy part of building: taking a loose idea, sketching the shape of it, and pushing until it becomes something you can actually click around.
 
-- I use daily: `.ts`, `.tsx`, `.js`, `.py`, `.cs`, `.html`, `.css`, `.sql`, `.ai`
-- Currently building around product surfaces, workflow automation, and LLM-powered tools
-- Previously shipped Azure dashboards, travel-planning prototypes, interview-practice UIs, and policy-review agents
-- Reach me: [email](mailto:bmukhiil@gmail.com), [LinkedIn](https://www.linkedin.com/in/mukhiil-baskaran/), [X](https://x.com/ya_l46)
-
+- Usually in: `.ts`, `.tsx`, `.py`, `.cs`, `.sql`, `.css`
+- Interested in: sharp UI, useful AI, travel products, design systems, internal tools
+- Recent themes: Azure dashboards, travel planning, interview practice, policy-review agents
+- Find me: [email](mailto:bmukhiil@gmail.com) / [LinkedIn](https://www.linkedin.com/in/mukhiil-baskaran/) / [X](https://x.com/ya_l46)
