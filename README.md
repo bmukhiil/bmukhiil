@@ -15,7 +15,7 @@
 
 ## I build tools that make complicated work feel simple.
 
-I'm a software engineer in Vancouver focused on full-stack product engineering, AI workflows, and clean user-facing systems. I like taking messy operational workflows, designing the interface around the real user behavior, and then building the backend, data model, and automation needed to make it fast.
+I'm a software engineer based in Vancouver focused on full-stack product engineering, AI workflows, and clean user-facing systems. I like taking messy operational workflows, designing the interface around the real user behavior, and then building the backend, data model, and automation needed to make it fast.
 
 Recently, that has meant:
 
