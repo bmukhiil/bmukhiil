@@ -12,9 +12,11 @@ Mostly working with TypeScript, React/Next.js, Node.js, Python, C#/.NET, MongoDB
 ## Contact
 
 <p>
-  <a href="mailto:bmukhiil@gmail.com">Email</a>
+  <a href="mailto:bmukhiil@gmail.com">bmukhiil@gmail.com</a>
   &middot;
   <a href="https://www.linkedin.com/in/mukhiil-baskaran">LinkedIn</a>
+  &middot;
+  <a href="https://x.com/ya_l46">X</a>
   &middot;
   <a href="https://github.com/bmukhiil?tab=repositories">Projects</a>
 </p>
